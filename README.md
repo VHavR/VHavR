@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm VHavR 👋
 
-<!--
-**VHavR/VHavR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### IT Student | Aspiring Developer
 
-Here are some ideas to get you started:
+- 💻 Learning programming and web development
+- 🎨 Interested in graphic and digital design
+- 🎬 Exploring 3D and animation
+- 🚀 Building my skills and personal projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Technologies & Tools
+ 
+### My Projects
+
+### About Me
