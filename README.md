@@ -2,15 +2,43 @@
 
 ### IT Student | Aspiring Developer
 
-- 💻 Uczę się programować i tworzyć aplikacje mobilne i desktopowe, a także strony internetowe
-- 🎨 Interesuję się tworzeniem grafiki komputerowej i animacji.
-- 🎬 Samodzielnie pogłębiam swoją wiedzę oraz umiejętności w zakresie tworzenia przestrzeni 3D w programie Blender.
-- 🚀 Mam kilka niewielkich projektów, które można znaleźć tutaj; możesz również skontaktować się ze mną lub śledzić mnie w mediach społecznościowych.
+• 💻 Learning to code and build mobile, desktop, and web apps.
+• 🎨 Interested in computer graphics and animation.
+• 🎬 Self-studying 3D modeling and environments in Blender.
+• 🚀 Check out my small projects here, or feel free to connect and follow me on social media.
 
 ---
 
-### Technologies & Tools
- 
+## 🛠️ Technologies & Tools
+
+### 💻 Programming & Web Development
+- C#
+- Python
+- HTML5
+- CSS3
+- JavaScript (Basic)
+- PHP & Database Integration
+
+### 🗄️ Backend & Databases
+- PHP forms and database operations
+- Reading, adding, updating and managing database records
+- Local server development
+
+### 🎨 Design & Graphics
+- GIMP
+- Photopea
+- Blender
+
+### 🌐 Web Platforms & Development
+- WordPress
+- Divi Builder
+
+### ⚙️ Development Environments
+- Visual Studio
+- Visual Studio Code
+
+### 🎬 Video Editing
+- CapCut
 ### My Projects
 
 ### About Me
